@@ -166,4 +166,4 @@ main = do
   let svgForms = intercalate " " [(svgElements svgTriangle triangs2 svgPaletteT), (svgElements svgQuadri quadris2 svgPaletteQ), (svgElements svgCircle circs2 svgPaletteC)]
   let svgstrs = svgBegin w h ++ svgForms ++ svgEnd
 
-  writeFile "vasco.svg" svgstrs
+  writeFile "espelhos.svg" svgstrs
