@@ -13,4 +13,5 @@ a imagem 2 ou 4 vezes baseado em input de usuário.\
   
 ### Creditos:
   Programa não poderia ter sido concluido sem a ajuda do colega *Thiago *, que me ensinou e explicou como utilizar a biblioteca Random e como trabalhar com os valores
-IO que eram retornados!
+IO que eram retornados!\
+  Também foram utilizadas as funções de trabalhos anteriores, criadas anteriormente.
