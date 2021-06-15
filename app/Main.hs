@@ -121,7 +121,7 @@ main = do
   hinput <- getLine
   putStrLn "Insira o numero de formas desejado:"
   formas <- getLine
-  putStrLn "Insira se deseja 1, 2 ou 4 imagens (qualquer numero diferente de 2 ou 4 sera considerado como 2):"
+  putStrLn "Insira se deseja 1, 2 ou 4 imagens (qualquer numero diferente sera considerado como 2):"
   mirrors <- getLine
 
   -- transforma dados lidos em tipos necessarios
